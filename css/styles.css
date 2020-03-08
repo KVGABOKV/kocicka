@@ -2,6 +2,7 @@ body {    color:black;
 font-family: Arial;
 margin: 0px;
 background-image: url('../aaa.jpg') ;
+
 }
 
 h3, h4  {font-size: 2em;}
@@ -22,11 +23,11 @@ h1 {
  .fialova{color:purple}
  .zluta{color:yellow}
  .oranzova{color:orange}
- .green{color:green}
- .green{color:green}
+ .greeen{color:green}
+ .greeen{color:green}
  .oranzova{color:orange}
  .zluta{color:yellow}
- .fialova{color:purple}
+ .fialova{color:pink}
  .over{color: greenyellow}
  .over{color: greenyellow}
  .popis{color: gold}
@@ -64,5 +65,65 @@ transition: 1.6s ease;
 }
     
 .ra {
+<<<<<<< HEAD
     color: purple;
 }
+
+.containerra {
+    display: flex; /* or inline-flex */
+    justify-content: space-evenly;
+  }
+
+  .item {
+    order: 0; /* default is 0 */
+    width: 500px;
+  }
+
+  
+.containerow {
+    display: flex; /* or inline-flex */
+    justify-content: space-evenly;
+  }
+
+  .item {
+    order: 0; /* default is 0 */
+    width: 500px;
+  }
+
+  
+.containerCS {
+    display: flex; /* or inline-flex */
+    justify-content: space-evenly;
+  }
+
+  .item {
+    order: 0; /* default is 0 */
+    width: 500px;
+  }
+
+  
+.containerTE {
+    display: flex; /* or inline-flex */
+    justify-content: space-evenly;
+  }
+
+  .item {
+    order: 0; /* default is 0 */
+    width: 500px;
+  }
+
+  
+.containerWO {
+    display: flex; /* or inline-flex */
+    justify-content: space-evenly;
+  }
+
+  .item {
+    order: 0; /* default is 0 */
+    width: 500px;
+  }
+=======
+   color: purple;
+}
+ 
+>>>>>>> a900ce2f4aec76be7d1b2b27b93a739a8c20c605
