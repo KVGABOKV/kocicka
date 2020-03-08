@@ -44,7 +44,7 @@ transition: 1.6s ease;
 
 
 .CS {
-    color: yellow;
+    color:yellow;
     }
     
     .TE {
@@ -65,9 +65,7 @@ transition: 1.6s ease;
 }
     
 .ra {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    color: purple;
+   color: purple;
 }
 
 .containerra {
@@ -123,13 +121,3 @@ transition: 1.6s ease;
     order: 0; /* default is 0 */
     width: 500px;
   }
-=======
-   color: purple;
-}
- 
->>>>>>> a900ce2f4aec76be7d1b2b27b93a739a8c20c605
-=======
-   color: purple;
-}
- 
->>>>>>> a900ce2f4aec76be7d1b2b27b93a739a8c20c605
