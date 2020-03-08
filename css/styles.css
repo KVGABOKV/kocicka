@@ -2,6 +2,7 @@ body {    color:black;
 font-family: Arial;
 margin: 0px;
 background-image: url('../aaa.jpg') ;
+
 }
 
 h3, h4  {font-size: 2em;}
@@ -22,11 +23,11 @@ h1 {
  .fialova{color:purple}
  .zluta{color:yellow}
  .oranzova{color:orange}
- .green{color:green}
- .green{color:green}
+ .greeen{color:green}
+ .greeen{color:green}
  .oranzova{color:orange}
  .zluta{color:yellow}
- .fialova{color:purple}
+ .fialova{color:pink}
  .over{color: greenyellow}
  .over{color: greenyellow}
  .popis{color: gold}
@@ -64,5 +65,6 @@ transition: 1.6s ease;
 }
     
 .ra {
-    color: purple;
+   color: purple;
 }
+ 
