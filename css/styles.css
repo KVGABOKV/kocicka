@@ -44,7 +44,7 @@ transition: 1.6s ease;
 
 
 .CS {
-    color: yellow;
+    color:yellow;
     }
     
     .TE {
@@ -64,7 +64,6 @@ transition: 1.6s ease;
     color: red;
 }
     
-
 
 .containerra {
     display: flex; /* or inline-flex */
@@ -119,13 +118,3 @@ transition: 1.6s ease;
     order: 0; /* default is 0 */
     width: 500px;
   }
-=======
-   color: purple;
-}
- 
->>>>>>> a900ce2f4aec76be7d1b2b27b93a739a8c20c605
-=======
-   color: purple;
-}
- 
->>>>>>> a900ce2f4aec76be7d1b2b27b93a739a8c20c605
